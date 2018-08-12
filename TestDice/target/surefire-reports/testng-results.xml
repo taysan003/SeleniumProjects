@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="21404" started-at="2018-08-12T06:09:34Z" finished-at="2018-08-12T06:09:56Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="21404" started-at="2018-08-12T06:09:34Z" finished-at="2018-08-12T06:09:56Z">
+      <class name="com.dice.FirstTest">
+        <test-method status="PASS" signature="firstTestMethod()[pri:0, instance:com.dice.FirstTest@6fd83fc1]" name="firstTestMethod" duration-ms="19989" started-at="2018-08-12T06:09:34Z" finished-at="2018-08-12T06:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestMethod -->
+        <test-method status="PASS" signature="thirdTestSignOut()[pri:0, instance:com.dice.FirstTest@6fd83fc1]" name="thirdTestSignOut" duration-ms="0" started-at="2018-08-12T06:09:54Z" finished-at="2018-08-12T06:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTestSignOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dice.FirstTest@6fd83fc1]" name="tearDown" is-config="true" duration-ms="1394" started-at="2018-08-12T06:09:54Z" finished-at="2018-08-12T06:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dice.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
